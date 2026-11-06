@@ -56,7 +56,7 @@ The project follows these stages:
 
 The prepared dataset used in this project is available at:
 
-**[Download Prepared Satellite Image Dataset](PASTE_DATASET_LINK_HERE)**
+**[Download Prepared Satellite Image Dataset](https://drive.google.com/drive/folders/1vFQdq1OKrp0PojUfquNrzXx-2VbFUwGT?usp=sharing)**
 
 The dataset consists of paired satellite image patches:
 
@@ -90,7 +90,8 @@ Image-Super-Resolution-Using-RCAN/
 │   └── 5_RCAN_finetuning.py
 │
 ├── results/
-│   └── RCAN_Pretrained_vs_Finetuned_Model_Comparison.png
+│   ├── RCAN_Pretrained_vs_Finetuned_Model_Comparison.png
+|   └── RCAN_visual_comparison.png
 │
 ├── requirements.txt
 └── README.md
